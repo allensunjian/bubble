@@ -43,4 +43,4 @@ handleBubble.initBubble(); //初始化泡泡
 
 SHOWDOC无法上传动图，所以不能直观的感受到效果。有兴趣的伙伴可以自己去体验一下~
 欢迎前端小伙伴，批评指正，共同进步。
-![](https://github.com/allensunjian/bubble/blob/master/imgLib/time2.jpg)
+![](https://github.com/allensunjian/bubble/blob/master/imgLib/timg2.jpg)
